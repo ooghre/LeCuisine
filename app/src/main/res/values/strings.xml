@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LeCuisine</string>
+    <string name="add_a_dish">add a dish</string>
+    <string name="delete_a_dish">delete dish</string>
+    <string name="name_of_dish">Name of dish</string>
+    <string name="error">Error</string>
+    <string name="ok">Ok</string>
+    <string name="missing_dish_name">dish name cannot be empty</string>
+</resources>
